@@ -1,3 +1,13 @@
+🛡️How to Push Your Folder in Github 🤔❓
+
+1) Prerequisites — Don’t skip these
+
+	You must have:
+
+		• Git installed locally (Linux/Windows/macOS) and accessible from your terminal.
+		• A GitHub account.
+		• A repository created on GitHub where you will push this folder.
+
 OPTION 1 (BEST & CORRECT WAY – use this)
 
 	Step 1: Create repository on GitHub
