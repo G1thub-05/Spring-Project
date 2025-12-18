@@ -23,6 +23,7 @@ OPTION 1 (BEST & CORRECT WAY – use this)
 
 		Now run:
 			git remote add origin https://github.com/yourname/my-project.git
+			Example: git remote add origin https://github.com/G1thub-05/Spring-Project.git
 			git branch -M main
 			git push -u origin main
 
