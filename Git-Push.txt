@@ -15,7 +15,7 @@ OPTION 1 (BEST & CORRECT WAY – use this)
 	Step 3: Run these commands ONE BY ONE
 		git init
 		git add .
-		git commit -m "first commit"
+		git commit -m "first commit" → update the changes
 
 	Step 4: Connect folder to GitHub
 		Copy your repo URL from GitHub (looks like this):
