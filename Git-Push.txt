@@ -1,0 +1,40 @@
+OPTION 1 (BEST & CORRECT WAY – use this)
+
+	Step 1: Create repository on GitHub
+
+		Open https://github.com
+		Click New repository
+		Give name (example: my-project)
+		Click Create repository
+		❌ Do NOT add README, .gitignore, license
+
+	Step 2: Open folder on your computer
+		C:\Users\You\Desktop\MyFolder
+                Right-click inside the folder → Open Terminal / Command Prompt
+
+	Step 3: Run these commands ONE BY ONE
+		git init
+		git add .
+		git commit -m "first commit"
+
+	Step 4: Connect folder to GitHub
+		Copy your repo URL from GitHub (looks like this):
+		https://github.com/yourname/my-project.git
+
+		Now run:
+			git remote add origin https://github.com/yourname/my-project.git
+			git branch -M main
+			git push -u origin main
+
+	Step 5: Done
+		Refresh GitHub → your folder is uploaded
+________________________________________________________________________________________________________________
+
+OPTION 2 (EASIEST – NO COMMANDS)
+
+	If you don’t want commands:
+		Open your GitHub repo
+		Click Add file → Upload files
+		Drag your folder
+		Click Commit changes
+		This works, but this is not real Git usage. Fine for beginners.
