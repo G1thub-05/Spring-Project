@@ -1,4 +1,4 @@
-🛡️How to Push Your Folder in Github 🤔❓
+🛡️ How to Push Your Folder in Github 🤔❓
 
 1) Prerequisites — Don’t skip these
 
